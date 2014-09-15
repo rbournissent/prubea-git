@@ -1,0 +1,3 @@
+Este archivo pertenece a la rama 1
+
+No debe moverse o mergearse.
